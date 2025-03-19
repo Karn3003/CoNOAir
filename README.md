@@ -1,6 +1,3 @@
-## CoNOAir
-Complex Neural Operator for Forecasting Carbon Monoxide
-
 # A Neural Operator for Forecasting Carbon Monoxide Evolution in Cities
 
 **Journal:** npj Clean Air
